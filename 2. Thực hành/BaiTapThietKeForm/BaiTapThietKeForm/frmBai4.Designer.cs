@@ -69,6 +69,7 @@
             this.btnTim.TabIndex = 3;
             this.btnTim.Text = "Tìm số";
             this.btnTim.UseVisualStyleBackColor = true;
+            this.btnTim.Click += new System.EventHandler(this.btnTim_Click);
             // 
             // label2
             // 

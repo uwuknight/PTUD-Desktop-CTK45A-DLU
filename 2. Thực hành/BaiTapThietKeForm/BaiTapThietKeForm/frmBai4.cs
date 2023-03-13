@@ -29,5 +29,21 @@ namespace BaiTapThietKeForm
                 listBox1.Items.Add(so);
             }
         }
+
+        private void btnTim_Click(object sender, EventArgs e)
+        {
+            int soCanTim = int.Parse(txtSo.Text);
+
+            lblKetQua.Text = "Không Tìm thấy";
+
+            foreach (int so in listBox1.Items)
+            {
+                if (so == soCanTim)
+                {
+                    lblKetQua.Text = "Tìm thấy";
+                    break;
+                }
+            }
+        }
     }
 }

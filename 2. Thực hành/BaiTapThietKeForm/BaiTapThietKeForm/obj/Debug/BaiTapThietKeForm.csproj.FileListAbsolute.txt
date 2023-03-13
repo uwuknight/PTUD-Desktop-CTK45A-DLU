@@ -12,3 +12,4 @@ C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiTapThietKeForm\B
 C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
 C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai2.resources
 C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai3.resources
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai4.resources

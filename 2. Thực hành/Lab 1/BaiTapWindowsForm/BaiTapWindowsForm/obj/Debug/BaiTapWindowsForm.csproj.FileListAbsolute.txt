@@ -11,3 +11,4 @@ C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\
 C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.exe
 C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.pdb
 C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai2.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai3.resources

@@ -13,3 +13,18 @@ C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiTapThietKeForm\B
 C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai2.resources
 C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai3.resources
 C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai4.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe.config
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.pdb
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.AssemblyReference.cache
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai1.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai2.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai3.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai4.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmChinh.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Properties.Resources.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.GenerateResource.cache
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.CoreCompileInputs.cache
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb

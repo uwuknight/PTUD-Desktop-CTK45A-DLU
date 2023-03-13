@@ -1,0 +1,11 @@
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.exe
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.pdb
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.MainForm.resources
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.exe
+C:\Users\Rii\Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.pdb
